@@ -1,4 +1,4 @@
-# go-kafka-test
+# kafka_go
 Тестовое приложение для работы с Apache Kafka на языке Go
 
 
